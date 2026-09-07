@@ -1,0 +1,114 @@
+Deck,Card ID,Card name,Note
+Corporate & Professional,LOC-003,Earth Spaceports,Immediately applicable to near-term strategy
+Corporate & Professional,LOC-006,Lagrange Stations,Surfaces jurisdictional questions
+Corporate & Professional,LOC-008,Mars Settlements,"Mid-term horizon, rich friction"
+Corporate & Professional,LOC-009,Asteroid Claims,Ownership under uncertainty
+Corporate & Professional,LOC-011,Europa Outposts,Communication blackout dynamic
+Corporate & Professional,LOC-012,Earth-Mars Cyclers,Long-duration transit economy
+Corporate & Professional,LOC-015,Comet Claims,Generational investment horizon
+Corporate & Professional,PER-004,Scientists,IP and discovery rights
+Corporate & Professional,PER-007,Entrepreneurs,"Familiar archetype, unfamiliar conditions"
+Corporate & Professional,PER-009,Brokers,Information asymmetry
+Corporate & Professional,PER-012,Migrant Workers,Labor and remittance dynamics
+Corporate & Professional,PER-014,Earth Investors,"Familiar role, broken assumptions"
+Corporate & Professional,PER-015,Bankers,Deliberately ambiguous — surfaces tradition
+Corporate & Professional,PER-016,Heirs,Generational transfer
+Corporate & Professional,PER-017,Customs Officers,Jurisdiction and authority
+Corporate & Professional,TOL-002,Bonds,Long-duration capital
+Corporate & Professional,TOL-006,Insurance,Claims verification at distance
+Corporate & Professional,TOL-007,Futures,Time as a tradeable dimension
+Corporate & Professional,TOL-010,Letters of Credit,Historical anchor — worth foregrounding
+Corporate & Professional,TOL-011,Escrow,Trust mechanism
+Corporate & Professional,TOL-015,Trusts,Generational obligations
+Corporate & Professional,TOL-018,Grants,Public goods under uncertainty
+Corporate & Professional,TOL-031,Auctions,Price discovery for novel assets
+Corporate & Professional,TOL-032,Freeports,Jurisdictional arbitrage
+Youth & Student,LOC-004,Lunar Bases,"Near, imaginable, well-known from media"
+Youth & Student,LOC-005,Lunar Mining Camps,Relatable work context
+Youth & Student,LOC-008,Mars Settlements,The obvious hook for young audiences
+Youth & Student,LOC-009,Asteroid Claims,Exciting without being too abstract
+Youth & Student,LOC-014,Generation Ships,Provokes big thinking about time and inheritance
+Youth & Student,PER-001,Miners,Work and pay — immediately legible
+Youth & Student,PER-002,Farmers,Food security — visceral stakes
+Youth & Student,PER-003,Technicians,"Skilled work, fair pay question"
+Youth & Student,PER-010,Doctors,"Care economy, resource scarcity"
+Youth & Student,PER-012,Migrant Workers,Remittances — many students have family context
+Youth & Student,PER-018,Children,Born into a system they didn't choose
+Youth & Student,PER-019,Retirees,"Long-term planning, delayed gratification"
+Youth & Student,PER-020,Tourists,"Accessible starting point, light stakes"
+Youth & Student,TOL-001,Loans,Most familiar borrowing concept
+Youth & Student,TOL-004,Shares,Ownership — good for discussion
+Youth & Student,TOL-006,Insurance,Everyone understands risk pooling once explained
+Youth & Student,TOL-009,Remittances,Connects to lived experience for many
+Youth & Student,TOL-011,Escrow,Simple trust mechanism
+Youth & Student,TOL-013,Savings,Foundational concept
+Youth & Student,TOL-016,Crowdfunding,Familiar from Kickstarter etc
+Youth & Student,TOL-017,Mutual Aid Pools,"Community logic, easy to grasp"
+Youth & Student,TOL-026,Rotating Savings Clubs,Intuitive once described; surfaces non-Western finance naturally
+Expert & Fintech,LOC-006,Lagrange Stations,Jurisdictional edge case
+Expert & Fintech,LOC-009,Asteroid Claims,"Contested ownership, no registry"
+Expert & Fintech,LOC-011,Europa Outposts,Predictable blackout as parametric trigger
+Expert & Fintech,LOC-016,Probe Investments,"Long-duration asset, no counterparty"
+Expert & Fintech,LOC-017,Oort Stations,"Maximum latency, minimum infrastructure"
+Expert & Fintech,LOC-018,Relativistic Vessels,Time dilation as contract design problem
+Expert & Fintech,PER-007,Entrepreneurs,Familiar — push them to break assumptions
+Expert & Fintech,PER-009,Brokers,Information and reputation markets
+Expert & Fintech,PER-014,Earth Investors,Governance across distance
+Expert & Fintech,PER-015,Bankers,What does banking mean without a bank?
+Expert & Fintech,PER-022,Protocol Designers,Core persona for this audience
+Expert & Fintech,PER-016,Heirs,Inheritance without probate infrastructure
+Expert & Fintech,TOL-005,Venture Capital,Governance rights at distance
+Expert & Fintech,TOL-008,Derivatives,Pricing under deep uncertainty
+Expert & Fintech,TOL-021,Parametric Insurance,Already their world — push to breaking point
+Expert & Fintech,TOL-022,Tokenized Equity,Programmable ownership
+Expert & Fintech,TOL-023,Automated Market Makers,Liquidity without counterparties
+Expert & Fintech,TOL-027,Reputation Systems,On-chain identity at frontier
+Expert & Fintech,TOL-028,Prediction Markets,Verification without authority
+Expert & Fintech,TOL-030,Programmable Escrow,Smart contract trust
+Expert & Fintech,TOL-031,Auctions,Dutch auction in space cargo context
+Expert & Fintech,TOL-032,Freeports,Jurisdictional arbitrage as protocol design
+Cross-tradition,LOC-004,Lunar Bases,"Near-term, accessible"
+Cross-tradition,LOC-005,Lunar Mining Camps,Migrant labor logic — resonates widely
+Cross-tradition,LOC-008,Mars Settlements,Universal cultural reference
+Cross-tradition,LOC-009,Asteroid Claims,Contested ownership — familiar from land rights contexts
+Cross-tradition,LOC-010,Ceres Station,"Trading hub, multiple operators"
+Cross-tradition,LOC-012,Earth-Mars Cyclers,Transit and remittance context
+Cross-tradition,PER-001,Miners,"Extractive labor, deferred wages"
+Cross-tradition,PER-002,Farmers,Food sovereignty
+Cross-tradition,PER-005,Merchants,Trade across distance
+Cross-tradition,PER-009,Brokers,Information and trust networks
+Cross-tradition,PER-012,Migrant Workers,Core card for this deck — connects directly to lived experience
+Cross-tradition,PER-015,Bankers,Surfaces non-Western banking traditions intentionally
+Cross-tradition,PER-016,Heirs,Inheritance across distance
+Cross-tradition,PER-021,Cooperative Stewards,Community governance
+Cross-tradition,PER-023,Religious Endowments,"Long-horizon capital, non-Western context"
+Cross-tradition,TOL-009,Remittances,Central card — pull up extended description
+Cross-tradition,TOL-010,Letters of Credit,Historical origin story worth telling
+Cross-tradition,TOL-011,Escrow,Trust mechanism — simple to explain
+Cross-tradition,TOL-013,Savings,Foundational
+Cross-tradition,TOL-017,Mutual Aid Pools,Bridges formal and informal finance
+Cross-tradition,TOL-024,Profit-Sharing Contracts,Islamic finance — mudaraba and musharaka
+Cross-tradition,TOL-026,Rotating Savings Clubs,Core card for this deck — intuitive and culturally rich
+Cross-tradition,TOL-029,Waqf,Long-duration endowment logic
+Cross-tradition,TOL-032,Freeports,Jurisdictional arbitrage — resonates with special economic zone experience
+Foresight,LOC-011,Europa Outposts,Predictable constraint as design feature
+Foresight,LOC-013,Titan Refineries,"Extreme isolation, resource dependency"
+Foresight,LOC-014,Generation Ships,The long-horizon provocation
+Foresight,LOC-015,Comet Claims,Assets that outlive their owners
+Foresight,LOC-016,Probe Investments,Returns after death — generational obligation
+Foresight,LOC-017,Oort Stations,"Maximum distance, minimum precedent"
+Foresight,LOC-018,Relativistic Vessels,Time itself as a variable
+Foresight,PER-004,Scientists,Discovery rights in ungoverned space
+Foresight,PER-014,Earth Investors,Present decisions with futures consequences
+Foresight,PER-015,Bankers,What does banking mean without a bank?
+Foresight,PER-016,Heirs,Inheritance across time and distance
+Foresight,PER-018,Children,Born into systems they didn't design
+Foresight,PER-021,Cooperative Stewards,Alternative governance models
+Foresight,PER-023,Religious Endowments,Multi-generational capital with obligations
+Foresight,TOL-007,Futures,Time as a tradeable dimension
+Foresight,TOL-015,Trusts,Obligations that outlast their makers
+Foresight,TOL-024,Profit-Sharing Contracts,Value distribution alternatives
+Foresight,TOL-027,Reputation Systems,Trust without institutions
+Foresight,TOL-029,Waqf,Capital designed to outlast everything
+Foresight,TOL-031,Auctions,First-ever price discovery
+Foresight,TOL-032,Freeports,Jurisdiction as design choice
