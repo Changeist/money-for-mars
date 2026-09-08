@@ -1,6 +1,6 @@
 # Money for Mars
 
-A space economy design game. Teams draw three cards — a place in the solar system, a person who needs financial services, and a financial tool from Earth — and design something that would actually work where Earth's version wouldn't.
+A space economy design exercise. Teams draw three cards — a place in the solar system, a person who needs financial services, and a financial tool from Earth — and design something that would actually work where Earth's version wouldn't.
 
 The exercise is not about predicting space economies. It is about the muscle for questioning what a system takes for granted and rebuilding it when those assumptions no longer hold. Space is the prompt. The reasoning is the point, and it transfers — frontier markets, emerging technology, regulatory disruption, post-disruption strategy.
 
